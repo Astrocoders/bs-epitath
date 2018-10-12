@@ -1,6 +1,6 @@
 # bs-epitath
 
-Read the article
+Read the article https://medium.com/astrocoders/render-props-composition-for-reasonml-is-here-b9c004ca9fcb
 
 ## Installation
 ```
