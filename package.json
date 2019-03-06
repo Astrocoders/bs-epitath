@@ -1,6 +1,6 @@
 {
   "name": "bs-epitath",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "clean": "bsb -clean-world",
     "build": "bsb -make-world",
