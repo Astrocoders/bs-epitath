@@ -27,3 +27,4 @@ lib/bs
 node_modules
 yarn-error.log
 _esy
+*.bs.js

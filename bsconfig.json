@@ -13,5 +13,8 @@
   "warnings": {
     "error" : "+101"
   },
+  "bs-dependencies": [
+    "reason-react"
+  ],
   "refmt": 3
 }
